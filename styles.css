@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+
+body {
+  background: #c54440;
+  font-family: 'Fascinate Inline', cursive;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.wrapper h1 {
+  font-size: 3rem;
+  color: #841a29;
+}
+
+.wrapper h2 {
+  color: #841a29;
+}
